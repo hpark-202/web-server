@@ -23,8 +23,7 @@
 ## 🧐 Project philosophy
 The motivation is mainly on learning GO and net/http library 
 
-Fast-URL-Checker, as indicated by the name, it is a _quick_ url checking application. It uses "goroutines" to thrive in concurrency (speed).
-
+Static web-server
 ## 🏃 Getting Started
 ### Prerequisites
 
